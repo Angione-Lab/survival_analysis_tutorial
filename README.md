@@ -1,6 +1,6 @@
 # Machine Learning Methods for Survival Analysis with Clinical and Transcriptomics Data of Breast Cancer: a Step-by-Step Tutorial
 
-The tutorial comprises 4 Jupiter notebooks (1_clinical.ipynb, 2_Gene_feature_selection.ipynb, 3_GeneML.ipynb, 4_Merged_clinical_gene.ipynb) a folder Data (data_clinical_patient.csv, data_clinical_sample.csv, data_mRNA_median_all_sample_Zscores.csv), and a folder Plot where the results are saved.
+The tutorial comprises 4 Jupiter notebooks (1_Experiment_1.ipynb, 2_Experiment_2_part_1.ipynb, 3_Experiment_2_part_2.ipynb, 4_Experiment_3.ipynb) a folder Data (data_clinical_patient.csv, data_clinical_sample.csv, data_mRNA_median_all_sample_Zscores.csv), and a folder Plot where the results are saved.
 
 A colab version notebooks are also provided. If you want to run on Colab, please use the notebook in Colab Notebook folder (codes are the same,
 but the uploading files'directories are different). Before running the Colab notebook, please go to your Google Drive
